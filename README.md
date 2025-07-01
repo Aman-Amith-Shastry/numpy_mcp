@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aman-amith-shastry-scientific-computation-mcp-badge.png)](https://mseep.ai/app/aman-amith-shastry-scientific-computation-mcp)
+
 # Scientific Computation MCP
 
 [![smithery badge](https://smithery.ai/badge/@Aman-Amith-Shastry/scientific_computation_mcp)](https://smithery.ai/server/@Aman-Amith-Shastry/scientific_computation_mcp)
